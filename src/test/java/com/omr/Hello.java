@@ -12,6 +12,12 @@ public void t1() {
 	public void t3() {
 		
 	}
+	public void kirthi1(){
+		
+	}
+    public void kirthi2(){
+		
+	}
 }
 
 
